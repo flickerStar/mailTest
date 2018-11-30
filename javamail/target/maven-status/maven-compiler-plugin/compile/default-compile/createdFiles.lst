@@ -1,0 +1,4 @@
+com\javamail\constant\MailConstant.class
+com\javamail\util\MailUtil.class
+com\javamail\pojo\MailObject.class
+com\javamail\util\MailUtil$1.class
